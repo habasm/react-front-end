@@ -1,4 +1,5 @@
 # Hello-React-Front-End
+
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -20,7 +21,9 @@
 # 📖 Hello-React-Front-End <a name="about-project"></a>
 
 **Hello-React-Front-End** is a project which using React for Front-End of an application and display data coming from API.
-### Back End Link(https://github.com/otmanTR/hello-rails-back-end)
+
+### Back End Link(https://github.com/habasm/rails-back-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -31,17 +34,13 @@
 
 ### Key Features <a name="key-features"></a>
 
-
--Using API data and display in React 
-
+-Using API data and display in React
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-
 
 ### Prerequisites
 
@@ -55,29 +54,34 @@ To get a local copy up and running, follow these steps.
 
 Clone this Repository to your desired folder:
 
-``` sh
+```sh
 cd my-folder
-git clone https://github.com/otmanTR/hello-react-front-end.git
+git clone https://github.com/habasm/react-front-end.git
 ```
-### Install 
+
+### Install
+
 Install this project with:
- 
+
 npm install
 
 ### Usage
+
 To run the project, execute the following command:
-``` sh
+
+```sh
 npm run start
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="author"></a>
-👤 **Recep Burak Otman**
 
-- GitHub: [@otmanTR](https://github.com/otmanTR)
-- Twitter: [@hotumanzade](https://twitter.com/hotumanzade)
-- LinkedIn: [Burak Otman](https://www.linkedin.com/in/burak-otman-88646443/)
+👤 **HABASM**
+
+- GitHub: [@habasm](https://github.com/otmanTR)
+- Twitter: [@habasm](https://twitter.com/habasm)
+- LinkedIn: [habasm](https://www.linkedin.com/in/habasm/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
